@@ -23,6 +23,7 @@ vilt_AGRICULTUR*/
 # Results and model outputs
 results/
 *.jsonl
+*.log
 comparison_confusions/
 
 # Downloaded models cache
