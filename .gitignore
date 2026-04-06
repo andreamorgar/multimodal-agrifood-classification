@@ -1,0 +1,31 @@
+datasets/
+OFA/
+OFA-large/
+open_flamingo/
+venv/
+venv3.12/
+images/
+recipe_images/
+top5_images/
+__pycache__/  
+flava_finetuned/
+vilt_h2/
+vilt_AGRICULTURA/
+vilt_AGRICULTURA_10e/
+vilt_AGRICULTURA_15e/
+vilt_AGRICULTURA_20e/
+vilt_RECIPE/
+vilt_RECIPE_10e/
+vilt_RECIPE_15e/
+vilt_RECIPE_20e/
+vilt_AGRICULTUR*/
+
+# Results and model outputs
+results/
+*.jsonl
+comparison_confusions/
+
+# Downloaded models cache
+.cache/
+checkpoints/
+vilt_experimento/

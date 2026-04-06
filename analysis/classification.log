@@ -1,0 +1,2 @@
+nohup: no se tendrá en cuenta la entrada
+python: can't open file '/home/andrea/multimodal_experiments/analysis/add_dataset_parallel.py': [Errno 2] No such file or directory
