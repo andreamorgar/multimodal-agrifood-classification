@@ -2,6 +2,11 @@
 
 Comparative study of **CLIP** (contrastive) and **BLIP-2** (generative) multimodal models applied to image classification tasks in the **agriculture and food domains**.
 
+**Paper:** *Evaluating Zero-Shot Vision–Language Models for Agri-Food Image Classification*  
+**Authors:** Andrea Morales-Garzón, Salvador Lopez-Joya, Miguel López-Pérez, Maria J. Martin-Bautista  
+**Conference:** IPMU 2026 - 21st International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems  
+**Location:** Rome, Italy | June 15-19, 2026
+
 ---
 
 ## Project description
